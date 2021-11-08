@@ -1,6 +1,4 @@
-# ARCHIVED
 
-The code in this project is no longer maintained. Leaving it here in case it is of interest to anyone making something similar.
 
 # Permanote
 
